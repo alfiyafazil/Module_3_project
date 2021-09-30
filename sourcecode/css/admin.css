@@ -1,0 +1,51 @@
+body{
+    background-image: url("../images/logback.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:300px;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: 50%;
+    font-size: 35px;
+    color: green;
+}
+
+div{
+    background-color: white;
+    border-radius: 25px;
+    height: auto;
+    width: 30%;
+    text-align: center;
+    padding:5px;
+    margin: auto;
+
+}
+input[type=text],input[type=password]{
+    width: 70%;
+    padding: 15px;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+  }
+p
+{
+    text-align: left;
+    font-weight: 500;
+    padding-left: 15%;
+    color: rgb(6, 73, 40);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px;
+}
